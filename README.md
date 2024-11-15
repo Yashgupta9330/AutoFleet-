@@ -1,6 +1,6 @@
-# Next Auth v5
+# AutoFleet
 
-This is a repository for Next Auth v5
+This is a repository for AutoFleet
 
 Key Features:
 
